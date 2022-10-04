@@ -1,1 +1,3 @@
 # Social-Distancing-Detector
+
+Social distance Detector (also referred as SDD), it is an automated tool, which can be used by various organizations to check if the people working are following safe social distance i.e., “Two Meter or Six feet”. This tool helps to detect the humans in the frame with yolov3 convolutional neural network then calculate the distance between all the instances of humans detected in the frame and gives the results that if there are two or more people and they are too close to each other then it shows a red rectangle otherwise yellow or green. Social distance detector tool is totally based on Object Detection using Convolution Neural Network (CNN).
